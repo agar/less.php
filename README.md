@@ -20,6 +20,10 @@ A couple of things have been omitted from this initial version:
 - Definition of custom functions - will be added to the `\Less\Environment` class.
 - A tidy up of the API is needed.
 
+_Note: I haven't had time to keep this up to date at all - to be honest a direct port of the less.js code is not 
+likely an efficient approach anyway and was more an exercise to see if it was possible. If you're for a PHP version
+of less.js you can use in production, check out [https://github.com/leafo/lessphp](https://github.com/leafo/lessphp)._
+
 use
 ---
 
