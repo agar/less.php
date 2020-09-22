@@ -20,9 +20,11 @@ A couple of things have been omitted from this initial version:
 - Definition of custom functions - will be added to the `\Less\Environment` class.
 - A tidy up of the API is needed.
 
-_Note: I haven't had time to keep this up to date at all - to be honest a direct port of the less.js code is not 
-likely an efficient approach anyway and was more an exercise to see if it was possible. If you're for a PHP version
-of less.js you can use in production, check out [https://github.com/leafo/lessphp](https://github.com/leafo/lessphp)._
+_Note: This repo is no longer maintained. The [Wikimedia Foundation](https://github.com/wikimedia/) now managing 
+a more up to date version of my original code base at [https://github.com/wikimedia/less.php](https://github.com/wikimedia/less.php) 
+(based on additional work by [Martin Jantošovič](https://github.com/Mordred), [Josh Schmidt](https://github.com/oyejorge/less.php) 
+and others). I'd suggest starting there if you need to compile Less files in PHP._
+
 
 use
 ---
